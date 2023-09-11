@@ -1,0 +1,42 @@
+.navbar{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    height: 30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    background-color:#111;
+}
+.logo{
+    position: fixed;
+    left: 20px;
+    width: 80px;
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+}
+.buttonstyle{
+    position: fixed;
+    right: 70px;
+    background-color:#be131c;
+    border-radius: 4px;
+    width: 180px;
+    color: white;
+    
+    text-align: center;
+
+    
+}
+.buttonstyle1{
+    position: fixed;
+    right: 70px;
+    background-color: rgb(23, 167, 135);
+    border-radius: 4px;
+    width: 70px;
+    color: white;
+    
+    
+}
